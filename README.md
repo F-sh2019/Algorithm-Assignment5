@@ -24,7 +24,7 @@ get(x)   : Gets the value of the key x if the key exists in the cache otherwise 
 set(x,y) : inserts the value if the key x is not already present. If the cache reaches its capacity it should invalidate the least recently used item before inserting the new item.
 In the constructor of the class the size of the cache should be initialized.
 
-
+https://youtu.be/lEOM4_6RvOA
 
 
 6-Given an input stream of n characters consisting only of small case alphabets the task is to find the first non repeating character each time a character is inserted to the stream. If no non repeating element is found print -1.
