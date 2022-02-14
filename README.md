@@ -28,3 +28,6 @@ https://youtu.be/lEOM4_6RvOA
 
 
 6-Given an input stream of n characters consisting only of small case alphabets the task is to find the first non repeating character each time a character is inserted to the stream. If no non repeating element is found print -1.
+
+
+https://youtu.be/X8tHttt_6sk
